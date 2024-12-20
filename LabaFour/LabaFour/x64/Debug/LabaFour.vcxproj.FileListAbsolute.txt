@@ -1,0 +1,10 @@
+C:\Users\Компуктер\source\repos\LabaFour\LabaFour\x64\Debug\LabaFour.vcxproj.AssemblyReference.cache
+C:\Users\Компуктер\source\repos\LabaFour\LabaFour\x64\Debug\LabaFour.EditForm.resources
+C:\Users\Компуктер\source\repos\LabaFour\LabaFour\x64\Debug\LabaFour.MainForm.resources
+C:\Users\Компуктер\source\repos\LabaFour\LabaFour\x64\Debug\LabaFour.vcxproj.GenerateResource.cache
+C:\Users\Компуктер\source\repos\LabaFour\LabaFour\x64\Debug\LabaFour.ShowingForm.resources
+C:\Users\user\source\repos\2kLab5\LabaFour\LabaFour\x64\Debug\LabaFour.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\2kLab5\LabaFour\LabaFour\x64\Debug\LabaFour.EditForm.resources
+C:\Users\user\source\repos\2kLab5\LabaFour\LabaFour\x64\Debug\LabaFour.MainForm.resources
+C:\Users\user\source\repos\2kLab5\LabaFour\LabaFour\x64\Debug\LabaFour.ShowingForm.resources
+C:\Users\user\source\repos\2kLab5\LabaFour\LabaFour\x64\Debug\LabaFour.vcxproj.GenerateResource.cache

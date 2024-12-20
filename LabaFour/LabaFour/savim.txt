@@ -1,0 +1,13 @@
+4
+Kazakhstan
+14000
+1000
+Minsk
+100
+0
+Moscow
+3000
+500
+Saint-Petersburg
+1000
+0
